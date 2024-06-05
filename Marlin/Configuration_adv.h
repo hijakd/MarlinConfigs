@@ -2544,6 +2544,8 @@
   #endif
 #endif
 
+// @section tool change
+
 /**
  * Universal tool change settings.
  * Applies to all types of extruders except where explicitly noted.
